@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "q": "What is the box model in CSS?",
+    "a": "The box model is a fundamental concept in CSS, defining the design and layout of elements in a web page. It consists of four parts: content, padding, border, and margin.",
+    "category": "CSS",
+    "added_by": "githubuser1"
+  },
+  {
+    "id": 2,
+    "q": "Explain the difference between `==` and `===` in JavaScript.",
+    "a": "`==` is the equality operator in JavaScript, which performs type coercion before comparing two values. `===` is the strict equality operator, which checks both the value and the type of the operands.",
+    "category": "JavaScript",
+    "added_by": "githubuser2"
+  },
+  {
+    "id": 3,
+    "q": "What is JSX in React?",
+    "a": "JSX is a syntax extension for JavaScript used with React to describe what the UI should look like. It allows developers to write HTML-like code in JavaScript files.",
+    "category": "React",
+    "added_by": "githubuser3"
+  },
+  {
+    "id": 4,
+    "q": "What is middleware in Node.js?",
+    "a": "Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application's request-response cycle.",
+    "category": "Node.js",
+    "added_by": "githubuser4"
+  },
+  {
+    "id": 5,
+    "q": "What is a document in MongoDB?",
+    "a": "In MongoDB, a document is a data structure composed of field-value pairs. It's analogous to a row in a relational database, but the structure can vary for each document in a collection.",
+    "category": "MongoDB",
+    "added_by": "githubuser5"
+  },
+  {
+    "id": 6,
+    "q": "What is server-side rendering in Next.js?",
+    "a": "Server-side rendering (SSR) in Next.js refers to the process of rendering web pages on the server instead of the client. It allows search engines to crawl the pages more easily and improves performance.",
+    "category": "Next.js",
+    "added_by": "githubuser6"
+  },
+  {
+    "id": 7,
+    "q": "What is Redux and what problem does it solve?",
+    "a": "Redux is a predictable state container for JavaScript apps, commonly used with React for managing application state. It solves the problem of managing complex application state and data flow.",
+    "category": "Redux",
+    "added_by": "githubuser7"
+  },
+  {
+    "id": 8,
+    "q": "What is the difference between class and ID selectors in CSS?",
+    "a": "Class selectors can be used to apply styles to multiple elements with the same class name, while ID selectors are used to uniquely style a single element with a specific ID.",
+    "category": "CSS",
+    "added_by": "githubuser8"
+  },
+  {
+    "id": 9,
+    "q": "Explain the event bubbling and event capturing in JavaScript.",
+    "a": "Event bubbling is a mechanism in which an event starts at the innermost element and propagates outward to the outermost element. Event capturing is the opposite, where the event is captured by the outermost element first and then propagated inward.",
+    "category": "JavaScript",
+    "added_by": "githubuser9"
+  },
+  {
+    "id": 10,
+    "q": "What are props in React?",
+    "a": "Props (short for properties) are a way of passing data from parent to child components in React. They are read-only and help make components reusable and modular.",
+    "category": "React",
+    "added_by": "githubuser10"
+  },
+  {
+    "id": 11,
+    "q": "What are pseudo-classes in CSS?",
+    "a": "Pseudo-classes in CSS are keywords added to selectors that specify a special state of the selected elements. Common pseudo-classes include :hover, :active, :focus, and :nth-child.",
+    "category": "CSS",
+    "added_by": "githubuser11"
+  },
+  {
+    "id": 12,
+    "q": "What is a closure in JavaScript?",
+    "a": "A closure is a feature in JavaScript where an inner function has access to the outer function's variables. It allows functions to retain access to variables even after they have finished executing.",
+    "category": "JavaScript",
+    "added_by": "githubuser12"
+  },
+  {
+    "id": 13,
+    "q": "What is the difference between state and props in React?",
+    "a": "In React, state is managed within a component and can be updated using the setState method. Props are read-only and are passed to a component by its parent.",
+    "category": "React",
+    "added_by": "githubuser13"
+  },
+  {
+    "id": 14,
+    "q": "What is npm?",
+    "a": "npm is the default package manager for Node.js, used to install, manage, and share JavaScript packages and libraries.",
+    "category": "Node.js",
+    "added_by": "githubuser14"
+  },
+  {
+    "id": 15,
+    "q": "What is a schema in MongoDB?",
+    "a": "In MongoDB, a schema defines the structure of documents within a collection. It specifies the fields, their data types, and any constraints or validations.",
+    "category": "MongoDB",
+    "added_by": "githubuser15"
+  },
+  {
+    "id": 16,
+    "q": "What is serverless architecture?",
+    "a": "Serverless architecture is a cloud computing model where the cloud provider dynamically manages the allocation and provisioning of servers. Developers only need to focus on writing code without worrying about server management.",
+    "category": "Node.js",
+    "added_by": "githubuser16"
+  },
+  {
+    "id": 17,
+    "q": "What are hooks in React?",
+    "a": "Hooks are functions that allow functional components to access React features such as state and lifecycle methods. useState and useEffect are examples of built-in hooks in React.",
+    "category": "React",
+    "added_by": "githubuser17"
+  },
+  {
+    "id": 18,
+    "q": "What is the specificity in CSS?",
+    "a": "Specificity in CSS determines which styles are applied to an element when multiple conflicting styles are present. It's calculated based on the number of IDs, classes, and elements in a selector.",
+    "category": "CSS",
+    "added_by": "githubuser18"
+  },
+  {
+    "id": 19,
+    "q": "What is a callback function?",
+    "a": "A callback function is a function that is passed as an argument to another function and is executed after a specific event or task is completed. It's commonly used in asynchronous programming.",
+    "category": "JavaScript",
+    "added_by": "githubuser19"
+  },
+  {
+    "id": 20,
+    "q": "What is virtual DOM in React?",
+    "a": "Virtual DOM is a lightweight copy of the actual DOM in React. It's used to improve performance by reducing the number of direct manipulations to the actual DOM.",
+    "category": "React",
+    "added_by": "githubuser20"
+  },
+  {
+    "id": 21,
+    "q": "What is Express.js?",
+    "a": "Express.js is a web application framework for Node.js, designed to simplify the process of building web applications and APIs. It provides a robust set of features for handling HTTP requests and routes.",
+    "category": "Node.js",
+    "added_by": "githubuser21"
+  },
+  {
+    "id": 22,
+    "q": "What is aggregation in MongoDB?",
+    "a": "Aggregation in MongoDB is the process of performing operations on multiple documents and returning computed results. It's commonly used for tasks like filtering, grouping, and sorting data.",
+    "category": "MongoDB",
+    "added_by": "githubuser22"
+  },
+  {
+    "id": 23,
+    "q": "What is routing in React?",
+    "a": "Routing in React refers to the process of mapping URLs to different components in the application. It allows users to navigate between different views or pages without a full page reload.",
+    "category": "React",
+    "added_by": "githubuser23"
+  },
+  {
+    "id": 24,
+    "q": "What is the `this` keyword in JavaScript?",
+    "a": "The `this` keyword in JavaScript refers to the object it belongs to. Its value is determined by how a function is called, and it can vary depending on the context in which it is used.",
+    "category": "JavaScript",
+    "added_by": "githubuser24"
+  },
+  {
+    "id": 25,
+    "q": "What is the difference between HTTP and HTTPS?",
+    "a": "HTTP (Hypertext Transfer Protocol) is a protocol used for transferring data over the internet, while HTTPS (Hypertext Transfer Protocol Secure) is a secure version of HTTP that uses SSL/TLS encryption for added security.",
+    "category": "Node.js",
+    "added_by": "githubuser25"
+  },
+  {
+    "id": 26,
+    "q": "What is the box-sizing property in CSS?",
+    "a": "The box-sizing property in CSS determines how the total width and height of an element are calculated. It can be set to content-box (default) or border-box.",
+    "category": "CSS",
+    "added_by": "githubuser26"
+  },
+  {
+    "id": 27,
+    "q": "What is the event loop in JavaScript?",
+    "a": "The event loop is a mechanism in JavaScript that allows asynchronous tasks to be executed in a non-blocking manner. It continuously checks the call stack and task queue to determine which tasks to execute next.",
+    "category": "JavaScript",
+    "added_by": "githubuser27"
+  },
+  {
+    "id": 28,
+    "q": "What is state management in React?",
+    "a": "State management in React refers to the management of data within a React application. It involves storing and updating data in a centralized location and making it accessible to various components.",
+    "category": "React",
+    "added_by": "githubuser28"
+  },
+  {
+    "id": 29,
+    "q": "What is npm script?",
+    "a": "npm script is a feature in npm that allows developers to define custom scripts in the package.json file. These scripts can be used to automate tasks such as running tests, building the project, or deploying the application.",
+    "category": "Node.js",
+    "added_by": "githubuser29"
+  },
+  {
+    "id": 30,
+    "q": "What is the $project stage in MongoDB aggregation?",
+    "a": "The $project stage in MongoDB aggregation pipeline allows users to specify the fields that should be included or excluded from the output documents. It's commonly used for reshaping documents and selecting specific fields.",
+    "category": "MongoDB",
+    "added_by": "githubuser30"
+  },
+  {
+    "id": 31,
+    "q": "What are higher-order components (HOCs) in React?",
+    "a": "Higher-order components (HOCs) are functions that take a component as input and return a new component with enhanced functionality. They're commonly used for code reuse, logic abstraction, and cross-cutting concerns.",
+    "category": "React",
+    "added_by": "githubuser31"
+  },
+  {
+    "id": 32,
+    "q": "What is the difference between margin and padding in CSS?",
+    "a": "Margin in CSS is the space outside the border of an element, while padding is the space between the content of an element and its border.",
+    "category": "CSS",
+    "added_by": "githubuser32"
+  },
+  {
+    "id": 33,
+    "q": "What is a promise in JavaScript?",
+    "a": "A promise in JavaScript is an object representing the eventual completion or failure of an asynchronous operation. It allows asynchronous code to be written in a more synchronous manner.",
+    "category": "JavaScript",
+    "added_by": "githubuser33"
+  },
+  {
+    "id": 34,
+    "q": "What is React Router?",
+    "a": "React Router is a popular library for handling routing in React applications. It provides a declarative way to define routes and navigate between different views.",
+    "category": "React",
+    "added_by": "githubuser34"
+  },
+  {
+    "id": 35,
+    "q": "What is the difference between PUT and PATCH HTTP methods?",
+    "a": "PUT and PATCH are both HTTP methods used for updating resources on the server. PUT is used to update or replace the entire resource, while PATCH is used to apply partial updates to the resource.",
+    "category": "Node.js",
+    "added_by": "githubuser35"
+  },
+  {
+    "id": 36,
+    "q": "What is flexbox in CSS?",
+    "a": "Flexbox is a layout model in CSS that allows developers to design flexible and responsive layouts. It's based on a system of flex containers and flex items.",
+    "category": "CSS",
+    "added_by": "githubuser36"
+  },
+  {
+    "id": 37,
+    "q": "What is a closure in JavaScript?",
+    "a": "A closure is a feature in JavaScript where an inner function has access to the outer function's variables. It allows functions to retain access to variables even after they have finished executing.",
+    "category": "JavaScript",
+    "added_by": "githubuser37"
+  },
+  {
+    "id": 38,
+    "q": "What are hooks in React?",
+    "a": "Hooks are functions that allow functional components to access React features such as state and lifecycle methods. useState and useEffect are examples of built-in hooks in React.",
+    "category": "React",
+    "added_by": "githubuser38"
+  },
+  {
+    "id": 39,
+    "q": "What is the difference between an arrow function and a regular function in JavaScript?",
+    "a": "Arrow functions are more concise and lexically scoped compared to regular functions. They do not have their own 'this' keyword and cannot be used as constructors.",
+    "category": "JavaScript",
+    "added_by": "githubuser39"
+  },
+  {
+    "id": 40,
+    "q": "What is the role of package.json in Node.js projects?",
+    "a": "The package.json file in Node.js projects contains metadata about the project, including dependencies, scripts, and other configuration details. It's used by npm to manage project dependencies and scripts.",
+    "category": "Node.js",
+    "added_by": "githubuser40"
+  },
+  {
+    "id": 41,
+    "q": "What is the difference between session storage and local storage in HTML5?",
+    "a": "Session storage and local storage are both web storage options in HTML5 for storing data locally in the browser. However, session storage data is only available for the duration of the page session, while local storage data persists even after the browser is closed and reopened.",
+    "category": "HTML5",
+    "added_by": "githubuser41"
+  },
+  {
+    "id": 42,
+    "q": "What is the difference between HTTP GET and POST methods?",
+    "a": "HTTP GET method is used to request data from a specified resource, while HTTP POST method is used to send data to a server to create/update a resource.",
+    "category": "HTTP",
+    "added_by": "githubuser42"
+  },
+  {
+    "id": 43,
+    "q": "What is the difference between GraphQL and RESTful APIs?",
+    "a": "GraphQL is a query language for APIs and a runtime for executing those queries. It allows clients to request only the data they need. RESTful APIs, on the other hand, follow a more rigid structure and require multiple endpoints for different resources.",
+    "category": "APIs",
+    "added_by": "githubuser43"
+  },
+  {
+    "id": 44,
+    "q": "What is the role of index.html in a React project?",
+    "a": "The index.html file in a React project serves as the entry point for the application. It's where the React application is mounted using ReactDOM.render().",
+    "category": "React",
+    "added_by": "githubuser44"
+  },
+  {
+    "id": 45,
+    "q": "What is Babel and what is its role in a React project?",
+    "a": "Babel is a JavaScript compiler that transforms modern JavaScript code into code that is compatible with older browsers. In a React project, Babel is used to transpile JSX and ES6 syntax into plain JavaScript that browsers can understand.",
+    "category": "React",
+    "added_by": "githubuser45"
+  },
+  {
+    "id": 46,
+    "q": "What is the purpose of the `key` attribute in React?",
+    "a": "The `key` attribute is used in React to give a unique identity to each element in an array of components. It helps React identify which items have changed, are added, or are removed, improving performance and rendering efficiency.",
+    "category": "React",
+    "added_by": "githubuser46"
+  },
+  {
+    "id": 47,
+    "q": "What is the difference between sessionStorage and localStorage in JavaScript?",
+    "a": "sessionStorage and localStorage are both used to store key-value pairs locally in a web browser. However, sessionStorage data is cleared when the session ends (i.e., when the browser tab is closed), while localStorage data persists until explicitly cleared by the user or the web application.",
+    "category": "JavaScript",
+    "added_by": "githubuser47"
+  },
+  {
+    "id": 48,
+    "q": "What is the role of the constructor() method in JavaScript?",
+    "a": "The constructor() method in JavaScript is a special method that is automatically called when a new instance of a class is created. It's commonly used to initialize object properties and perform other setup tasks.",
+    "category": "JavaScript",
+    "added_by": "githubuser48"
+  },
+  {
+    "id": 49,
+    "q": "What is CORS and how does it work?",
+    "a": "CORS (Cross-Origin Resource Sharing) is a security feature implemented by web browsers to prevent cross-origin requests from being made by scripts running on a different domain. It works by adding HTTP headers to the request and response that indicate whether the requested resource should be shared with the requesting domain.",
+    "category": "Web Security",
+    "added_by": "githubuser49"
+  },
+  {
+    "id": 50,
+    "q": "What is the difference between web sockets and HTTP?",
+    "a": "HTTP (Hypertext Transfer Protocol) is a stateless protocol used for transferring data over the web, while web sockets provide full-duplex communication channels over a single, long-lived connection. Unlike HTTP, web sockets allow for real-time, bidirectional communication between clients and servers.",
+    "category": "Networking",
+    "added_by": "githubuser50"
+  }
+]
